@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igoriev36
+- 👋 Hi, I’m Igor
 - 👀 I’m interested in software engineering, blockchain, smart-contract, trading
 - 🌱 I’m currently learning dapp
 - 💞️ I’m looking to collaborate on high-tech community
